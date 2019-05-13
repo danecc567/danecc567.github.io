@@ -1,0 +1,51 @@
+.gabe{
+width: 300px
+}
+.sign {
+    float: right; /* Выравнивание по правому краю */
+    border: 1px solid #333; /* Параметры рамки */
+    padding: 7px; /* Поля внутри блока */
+    margin: 0px 0 5px 5px; /* Отступы вокруг */
+    background: #f0f0f0; /* Цвет фона */ 
+   }
+   .sign figcaption {
+    margin: 0 auto 5px; /* Отступы вокруг абзаца */
+   }
+
+.text{
+text-align: center;
+}
+.dv {
+text-align:center;
+}
+#footer {
+background: #665;
+ color: #fff;
+ font-size: 70%;
+ padding: 5px; clear : both;
+ }
+ #footer a {
+ color: #ff0;
+ }
+
+#footer a:hover {
+ color: #f00;
+ }
+#footer p {
+ padding: 2px;
+ text-align: center;
+ }
+
+.clearfloat {
+
+clear: both;
+ }
+.vk{
+width: 40px; 
+}
+.mail{
+width: 40px;
+}
+.str img{
+width: 50px;
+}
